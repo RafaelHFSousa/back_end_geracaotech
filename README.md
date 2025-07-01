@@ -3,7 +3,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este repositório contém o código-fonte do projeto final de back-end desenvolvido para o curso de Desenvolvimento Web Full Stack da **Digital College**. O objetivo foi construir uma API RESTful robusta para um sistema de e-commerce simples, aplicando as melhores práticas de desenvolvimento, segurança e estrutura de código.
+Este repositório contém o código-fonte do projeto final de back-end desenvolvido para o curso de Desenvolvimento Web Full Stack da **Geração Tech** com parceria **Digital College**. O objetivo foi construir uma API RESTful robusta para um sistema de e-commerce simples, aplicando as melhores práticas de desenvolvimento, segurança e estrutura de código.
 
 A API permite o gerenciamento de usuários, categorias e produtos, com um sistema de autenticação baseado em JSON Web Tokens (JWT) para proteger rotas sensíveis.
 
