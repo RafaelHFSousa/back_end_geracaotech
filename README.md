@@ -67,7 +67,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 4.  **Configure as Variáveis de Ambiente:**
 
-      - Abra o arquivo `.env` e preencha com suas credenciais do banco de dados e um segredo para o JWT.
+      - Crie o arquivo `.env` e preencha com suas credenciais do banco de dados e um segredo para o JWT.
 
     <!-- end list -->
 
